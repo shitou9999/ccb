@@ -1,4 +1,4 @@
-package com.deviceservice.printer.ccb;
+package com.ccb.deviceservice.aidl;
 
 import android.content.ComponentName;
 import android.content.Context;
@@ -9,7 +9,6 @@ import android.os.RemoteException;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.ccb.deviceservice.aidl.IDeviceService;
 import com.ccb.deviceservice.aidl.printer.IPrinter;
 
 /**

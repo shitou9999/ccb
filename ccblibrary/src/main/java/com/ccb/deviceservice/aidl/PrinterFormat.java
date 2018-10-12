@@ -1,4 +1,4 @@
-package com.deviceservice.printer.ccb;
+package com.ccb.deviceservice.aidl;
 
 import android.os.Bundle;
 
